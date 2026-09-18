@@ -1,0 +1,26 @@
+# Dépendances du projet Echo (interface graphique + streaming vocal)
+# À installer dans le même .venv que rvc_lite_streaming_package (qui a déjà
+# torch/torchaudio/transformers/faiss/scipy/librosa/soundfile installés
+# pour engine.py/pipeline.py/hubert_engine.py/rmvpe_engine.py).
+
+torch>=2.11.0            # build CUDA (voir README pour la commande exacte)
+torchaudio>=2.11.0
+transformers>=4.40.0
+faiss-cpu>=1.7.0
+scipy>=1.11.0
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.24.0
+
+sounddevice>=0.4.6        # micro/haut-parleurs
+edge-tts>=6.1.0            # génération vocale neutre, convertie ensuite en Miku/BT
+requests>=2.31.0           # appel à l'API locale d'Ollama
+
+# Nouveau pour l'interface graphique et le micro (TEST 7 / Echo GUI) :
+customtkinter>=5.2.0       # interface graphique moderne (Tkinter + thème sombre)
+faster-whisper>=1.0.0      # reconnaissance vocale locale (bouton micro)
+
+# NON installable par pip -- doit être installé séparément et présent dans le PATH :
+#   ffmpeg (https://www.gyan.dev/ffmpeg/builds/, build "essentials")
+#   requis pour décoder le flux MP3 streamé par edge-tts au fil de l'eau.
+#   Vérifier avec : ffmpeg -version
