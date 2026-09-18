@@ -1,0 +1,53 @@
+# --- Secrets / clés API ---
+.env
+.env.*
+*.key
+secrets.yaml
+secrets.json
+
+# --- Python ---
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# --- Modèles / poids (vocaux, LLM local) ---
+*.pth
+*.gguf
+*.bin
+*.safetensors
+models/
+weights/
+
+# --- Logs / data locale ---
+*.log
+logs/
+data/
+conversations/
+*.db
+*.sqlite3
+
+# --- Tauri / frontend (si applicable) ---
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/Cargo.lock
+*.exe
+
+# --- Rust ---
+target/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
