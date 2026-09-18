@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Git",
+    "exe_path": "C:\\Program Files\\Git\\git-bash.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Genshin Impact",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\launcher.exe",
+    "source": "registry"
+  },
+  {
+    "name": "IntelliJ IDEA 2026.2.0.1",
+    "exe_path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2026.2.0.1\\bin\\idea64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Mozilla Firefox (x64 fr)",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Mozilla Maintenance Service",
+    "exe_path": "C:\\Program Files (x86)\\Mozilla Maintenance Service\\Uninstall.exe",
+    "source": "registry"
+  },
+  {
+    "name": "WizTree v4.32",
+    "exe_path": "C:\\Program Files\\WizTree\\WizTree.exe",
+    "source": "registry"
+  },
+  {
+    "name": "XAMPP",
+    "exe_path": "C:\\xampp\\service.exe",
+    "source": "registry"
+  },
+  {
+    "name": "NVIDIA FrameView SDK 1.8.12612.38276700",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\FrameViewSDK\\nvfvsdksvc_x64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "NVIDIA Install Application",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\SETUP.EXE",
+    "source": "registry"
+  },
+  {
+    "name": "NVIDIA Container",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+    "source": "registry"
+  },
+  {
+    "name": "NVIDIA ShadowPlay 11.0.8.0",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\ShadowPlay\\nvsphelper64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Google Chrome",
+    "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Copilot",
+    "exe_path": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application\\152.0.4191.53\\mscopilot.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Edge",
+    "exe_path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\152.0.4191.53\\msedge.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Edge WebView2 Runtime",
+    "exe_path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\152.0.4191.53\\msedgewebview2.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Neverness to Everness",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobalLauncher.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Steam",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\uninstall.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Tailscale",
+    "exe_path": "C:\\ProgramData\\Package Cache\\{1CCCB5A2-A189-44CF-AB97-7418C7FD8DA4}\\tailscale-setup-1.102.2.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Composer - PHP Dependency Manager",
+    "exe_path": "C:\\Program Files (x86)\\ComposerSetup\\unins000.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438",
+    "exe_path": "C:\\ProgramData\\Package Cache\\{b49c10dd-4d54-45f8-ad13-fa25704456a4}\\VC_redist.x64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438",
+    "exe_path": "C:\\ProgramData\\Package Cache\\{ba10fda9-f731-441f-a999-000bbb7ceec2}\\VC_redist.x86.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Windows Desktop Runtime - 8.0.30 (x64)",
+    "exe_path": "C:\\ProgramData\\Package Cache\\{d374321a-d08b-4207-8ef4-6953f782a26c}\\windowsdesktop-runtime-8.0.30-win-x64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "CurseForge 1.319.0-38738",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\CurseForge Windows\\CurseForge.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Discord",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Discord\\Update.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Blockbench 5.1.6",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Blockbench\\Blockbench.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Microsoft\\OneDrive\\26.153.0809.0004\\OneDriveSetup.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Roblox Player for er1go",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Roblox\\Versions\\version-e7d81637d42c4b23\\RobloxPlayerInstaller.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Roblox Studio for er1go",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Roblox\\Versions\\version-dcbeee682ce74ee0\\RobloxStudioInstaller.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Python 3.11.9 (64-bit)",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Package Cache\\{1da2e09b-199c-4def-9a99-93a8c1b8ddf2}\\python-3.11.9-amd64.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Ollama version 0.33.2",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Ollama\\unins000.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Microsoft Visual Studio Code (User)",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "source": "registry"
+  },
+  {
+    "name": "Dotnet",
+    "exe_path": "C:\\Program Files\\dotnet\\dotnet.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Dxsetup",
+    "exe_path": "C:\\Program Files\\Epic Games\\DirectXRedist\\DXSETUP.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git Cmd",
+    "exe_path": "C:\\Program Files\\Git\\git-cmd.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Unins000",
+    "exe_path": "C:\\Program Files\\Git\\unins000.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Bash",
+    "exe_path": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git",
+    "exe_path": "C:\\Program Files\\Git\\bin\\git.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Sh",
+    "exe_path": "C:\\Program Files\\Git\\bin\\sh.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git Gui",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\git-gui.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git Lfs",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\git-lfs.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git Receive Pack",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\git-receive-pack.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git Upload Pack",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\git-upload-pack.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Git",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\git.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gitk",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\gitk.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Scalar",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\scalar.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Tig",
+    "exe_path": "C:\\Program Files\\Git\\cmd\\tig.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Uninstall",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\uninstall.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Vc Redist.X64",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\vc_redist.x64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "7Z",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\7z.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Crashreport",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\crashreport.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hpatchz",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\hpatchz.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hyp",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\HYP.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hyphelper",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\HYPHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hypworker",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\HYPWorker.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hysafemode",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\HYSafeMode.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Hyupdater",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\HYUpdater.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Launcher",
+    "exe_path": "C:\\Program Files\\HoYoPlay\\1.18.0.380\\launcher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Devicecontroltool",
+    "exe_path": "C:\\Program Files\\HP\\HP App Enabling Services Extension\\DeviceControlTool.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Omeninstallmonitor",
+    "exe_path": "C:\\Program Files\\HP\\OmenInstallMonitor\\OmenInstallMonitor.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Omenoverlay",
+    "exe_path": "C:\\Program Files\\HP\\Overlay\\OMENOverlay.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Omenoverlaylauncher",
+    "exe_path": "C:\\Program Files\\HP\\Overlay\\OMENOverlayLauncher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Overlayhelper",
+    "exe_path": "C:\\Program Files\\HP\\Overlay\\OverlayHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Systemoptimizer",
+    "exe_path": "C:\\Program Files\\HP\\SystemOptimizer\\SystemOptimizer.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Extexport",
+    "exe_path": "C:\\Program Files\\Internet Explorer\\ExtExport.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Iediagcmd",
+    "exe_path": "C:\\Program Files\\Internet Explorer\\iediagcmd.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ieinstal",
+    "exe_path": "C:\\Program Files\\Internet Explorer\\ieinstal.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ielowutil",
+    "exe_path": "C:\\Program Files\\Internet Explorer\\ielowutil.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Iexplore",
+    "exe_path": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gameinputrawinputproxy",
+    "exe_path": "C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRawInputProxy.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gameinputredistservice",
+    "exe_path": "C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRedistService.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Crashhelper",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\crashhelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Crashreporter",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\crashreporter.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Default Browser Agent",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\default-browser-agent.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Maintenanceservice",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\maintenanceservice.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Maintenanceservice Installer",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\maintenanceservice_installer.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nmhproxy",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\nmhproxy.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Pingsender",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\pingsender.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Plugin Container",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\plugin-container.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Private Browsing",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\private_browsing.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Updater",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\updater.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Desktop Launcher",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\desktop-launcher\\desktop-launcher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Helper",
+    "exe_path": "C:\\Program Files\\Mozilla Firefox\\uninstall\\helper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Uninst",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\uninst.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Crashclientreporter",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\CrashClientReporter.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Globalloginhelper",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\GlobalLoginHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nteglobalbrowser",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalBrowser.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nteglobalerrrep",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalErrRep.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nteglobalgame",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalGame.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ntegloballauncher",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalLauncher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nteglobalupdate",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalUpdate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nteglobalwebbooster",
+    "exe_path": "C:\\Program Files\\Neverness To Everness\\NTEGlobal\\NTEGlobalWebBooster.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Node",
+    "exe_path": "C:\\Program Files\\nodejs\\node.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "7Z",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\7z.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Darkmodecheck",
+    "exe_path": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\DarkModeCheck.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Tailscale Ipn",
+    "exe_path": "C:\\Program Files\\Tailscale\\tailscale-ipn.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Tailscale",
+    "exe_path": "C:\\Program Files\\Tailscale\\tailscale.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Tailscaled",
+    "exe_path": "C:\\Program Files\\Tailscale\\tailscaled.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Configsecuritypolicy",
+    "exe_path": "C:\\Program Files\\Windows Defender\\ConfigSecurityPolicy.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Dlpuseragent",
+    "exe_path": "C:\\Program Files\\Windows Defender\\DlpUserAgent.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mipdlp",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MipDlp.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpcmdrun",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MpCmdRun.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpcopyaccelerator",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MpCopyAccelerator.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpdefendercoreservice",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MpDefenderCoreService.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpdlpcmd",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MpDlpCmd.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpdlpservice",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MpDlpService.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpextms",
+    "exe_path": "C:\\Program Files\\Windows Defender\\mpextms.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Msmpeng",
+    "exe_path": "C:\\Program Files\\Windows Defender\\MsMpEng.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Nissrv",
+    "exe_path": "C:\\Program Files\\Windows Defender\\NisSrv.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Offlinescannershell",
+    "exe_path": "C:\\Program Files\\Windows Defender\\Offline\\OfflineScannerShell.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wab",
+    "exe_path": "C:\\Program Files\\Windows Mail\\wab.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wabmig",
+    "exe_path": "C:\\Program Files\\Windows Mail\\wabmig.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Setup Wm",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\setup_wm.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmlaunch",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmlaunch.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpconfig",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmpconfig.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmplayer",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmplayer.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpnetwk",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmpnetwk.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpnscfg",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmpnscfg.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmprph",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmprph.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpshare",
+    "exe_path": "C:\\Program Files\\Windows Media Player\\wmpshare.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Imagingdevices",
+    "exe_path": "C:\\Program Files\\Windows Photo Viewer\\ImagingDevices.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Unins000",
+    "exe_path": "C:\\Program Files\\WizTree\\unins000.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wiztree64",
+    "exe_path": "C:\\Program Files\\WizTree\\WizTree64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Drivers",
+    "exe_path": "C:\\Program Files (x86)\\Common Files\\Steam\\drivers.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Secure Desktop Capture",
+    "exe_path": "C:\\Program Files (x86)\\Common Files\\Steam\\secure_desktop_capture.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamerrorreporter",
+    "exe_path": "C:\\Program Files (x86)\\Common Files\\Steam\\steamerrorreporter.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamservice",
+    "exe_path": "C:\\Program Files (x86)\\Common Files\\Steam\\steamservice.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamxboxutil64",
+    "exe_path": "C:\\Program Files (x86)\\Common Files\\Steam\\steamxboxutil64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Epiconlineservicesinstallhelper",
+    "exe_path": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\EpicOnlineServicesInstallHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Epiconlineservicesuihelper",
+    "exe_path": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\EpicOnlineServicesUIHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Epiconlineservicesuserhelper",
+    "exe_path": "C:\\Program Files (x86)\\Epic Games\\Epic Online Services\\EpicOnlineServicesUserHelper.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Googleupdate",
+    "exe_path": "C:\\Program Files (x86)\\Google\\Update\\GoogleUpdate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Extexport",
+    "exe_path": "C:\\Program Files (x86)\\Internet Explorer\\ExtExport.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ieinstal",
+    "exe_path": "C:\\Program Files (x86)\\Internet Explorer\\ieinstal.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ielowutil",
+    "exe_path": "C:\\Program Files (x86)\\Internet Explorer\\ielowutil.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Iexplore",
+    "exe_path": "C:\\Program Files (x86)\\Internet Explorer\\iexplore.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Copilotupdate",
+    "exe_path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\CopilotUpdate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Microsoftedgeupdate",
+    "exe_path": "C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Maintenanceservice",
+    "exe_path": "C:\\Program Files (x86)\\Mozilla Maintenance Service\\maintenanceservice.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gameoverlayui",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\gameoverlayui.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gameoverlayui64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\gameoverlayui64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steam",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamerrorreporter",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\steamerrorreporter.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamerrorreporter64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\steamerrorreporter64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamsysinfo",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\steamsysinfo.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Streaming Client",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\streaming_client.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Writeminidump",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\WriteMiniDump.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Drivers",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\drivers.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Fossilize Replay",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\fossilize-replay.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Fossilize Replay64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\fossilize-replay64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gldriverquery",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\gldriverquery.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Gldriverquery64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\gldriverquery64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Secure Desktop Capture",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\secure_desktop_capture.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamservice",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\SteamService.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamxboxutil",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\steamxboxutil.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steamxboxutil64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\steamxboxutil64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Steam Monitor",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\steam_monitor.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Vulkandriverquery",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\vulkandriverquery.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Vulkandriverquery64",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\vulkandriverquery64.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "X64Launcher",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\x64launcher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "X86Launcher",
+    "exe_path": "C:\\Program Files (x86)\\Steam\\bin\\x86launcher.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Mpcmdrun",
+    "exe_path": "C:\\Program Files (x86)\\Windows Defender\\MpCmdRun.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wab",
+    "exe_path": "C:\\Program Files (x86)\\Windows Mail\\wab.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wabmig",
+    "exe_path": "C:\\Program Files (x86)\\Windows Mail\\wabmig.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Setup Wm",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\setup_wm.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmlaunch",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmlaunch.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpconfig",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmpconfig.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmplayer",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmprph",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmprph.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Wmpshare",
+    "exe_path": "C:\\Program Files (x86)\\Windows Media Player\\wmpshare.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Imagingdevices",
+    "exe_path": "C:\\Program Files (x86)\\Windows Photo Viewer\\ImagingDevices.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Uninstall Blockbench",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Blockbench\\Uninstall Blockbench.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Elevate",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Blockbench\\resources\\elevate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Uninstall Curseforge",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\CurseForge Windows\\Uninstall CurseForge.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Elevate",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\CurseForge Windows\\resources\\elevate.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Unins000",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Microsoft VS Code\\unins000.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Code Tunnel",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ollama App",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Ollama\\ollama app.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Ollama",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Ollama\\ollama.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Python",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "source": "folder_scan"
+  },
+  {
+    "name": "Pythonw",
+    "exe_path": "C:\\Users\\er1go\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe",
+    "source": "folder_scan"
+  }
+]
